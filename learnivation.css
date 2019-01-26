@@ -13,7 +13,7 @@
 	color: #21323d;
 	margin-left: 5px;
 	padding-left: 10px;
-	border-left: 1px solid #fff;
+	border-left: 1px solid #07224b;
 }
 .checkContainer .checkBtn, .checkContainer .closeFeedbackBtn, .checkContainer .showSolnBtn, .info-icon:not(.no-restyle) {
 	background-color: #07224b !important;
