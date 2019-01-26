@@ -1,5 +1,5 @@
 .headerContainer {
-	background: #21323d;
+	background: #fffff;
 }
 .headerContainer header::before {
 	content: '';
