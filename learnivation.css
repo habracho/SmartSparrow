@@ -10,7 +10,7 @@
 	margin-top: -2px
 }
 
-.info-icon {
+.info-icon:not(.no-restyle) {
 	background: url('https://habracho.github.io/SmartSparrow/LearnMoreIcon.png') no-repeat;
 }
 
