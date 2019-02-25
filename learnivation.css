@@ -17,6 +17,11 @@
 }
 .checkContainer .checkBtn, .checkContainer .closeFeedbackBtn, .checkContainer .showSolnBtn, .info-icon:not(.no-restyle) {
 	background-color: #07224b !important;
+
+.info-icon {
+	background: url('https://habracho.github.io/SmartSparrow/LearnMoreIcon.png') no-repeat;
+}
+
 }
 .checkContainer .checkBtn:focus, .checkContainer .closeFeedbackBtn:focus, .checkContainer .showSolnBtn:focus, .checkContainer .checkBtn:hover, .checkContainer .closeFeedbackBtn:hover, .checkContainer .showSolnBtn:hover, .checkContainer .checkBtn:active, .checkContainer .closeFeedbackBtn:active, .checkContainer .showSolnBtn:active, .info-icon:not(.no-restyle):focus, .info-icon:not(.no-restyle):hover, .info-icon:not(.no-restyle):active {
 	background-color: #02528a !important;
