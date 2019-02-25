@@ -9,6 +9,11 @@
 	background: url('https://habracho.github.io/SmartSparrow/logoLearn.png') no-repeat; /* logo */
 	margin-top: -2px
 }
+
+.info-icon {
+	background: url('https://habracho.github.io/SmartSparrow/LearnMoreIcon.png') no-repeat;
+}
+
 .headerContainer header .lessonTitle {
 	color: #21323d;
 	margin-left: 5px;
@@ -17,10 +22,6 @@
 }
 .checkContainer .checkBtn, .checkContainer .closeFeedbackBtn, .checkContainer .showSolnBtn, .info-icon:not(.no-restyle) {
 	background-color: #07224b !important;
-
-.info-icon {
-	background: url('https://habracho.github.io/SmartSparrow/LearnMoreIcon.png') no-repeat;
-}
 
 }
 .checkContainer .checkBtn:focus, .checkContainer .closeFeedbackBtn:focus, .checkContainer .showSolnBtn:focus, .checkContainer .checkBtn:hover, .checkContainer .closeFeedbackBtn:hover, .checkContainer .showSolnBtn:hover, .checkContainer .checkBtn:active, .checkContainer .closeFeedbackBtn:active, .checkContainer .showSolnBtn:active, .info-icon:not(.no-restyle):focus, .info-icon:not(.no-restyle):hover, .info-icon:not(.no-restyle):active {
