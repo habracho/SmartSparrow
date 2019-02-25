@@ -12,6 +12,8 @@
 
 .info-icon:not(.no-restyle) {
 	background: url('https://habracho.github.io/SmartSparrow/LearnMoreIcon.png') no-repeat;
+	width: 32px;
+	display: block;		
 }
 
 .headerContainer header .lessonTitle {
