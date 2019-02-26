@@ -12,7 +12,7 @@
 
 .info-icon:not(.no-restyle) {
 	background: url('https://habracho.github.io/SmartSparrow/LearnMoreIcon2.png') no-repeat;
-	width: 64px;
+	width: 32px;
 	display: block;	
 	background-color: transparent !important;
 }
