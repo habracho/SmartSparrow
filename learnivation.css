@@ -13,7 +13,8 @@
 .info-icon:not(.no-restyle) {
 	background: url('https://habracho.github.io/SmartSparrow/LearnMoreIcon2.png') no-repeat;
 	width: 64px;
-	display: block;		
+	display: block;	
+	background-color: transparent !important;
 }
 
 .headerContainer header .lessonTitle {
