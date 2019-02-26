@@ -11,7 +11,7 @@
 }
 
 .info-icon:not(.no-restyle) {
-	background: url('https://habracho.github.io/SmartSparrow/moreinfo.png') no-repeat fixed center;
+	background: url('https://habracho.github.io/SmartSparrow/moreinfo.png') no-repeat center;
 	width: 32px;
 	height: 32px;
 	/* display: block; */
