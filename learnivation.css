@@ -6,12 +6,12 @@
 	display: block;
 	float: left;
 	width: 206px;
-	background: url('https://habracho.github.io/SmartSparrow/logoLearn.png') no-repeat fixed center; /* logo */
+	background: url('https://habracho.github.io/SmartSparrow/logoLearn.png') no-repeat; /* logo */
 	margin-top: -2px
 }
 
 .info-icon:not(.no-restyle) {
-	background: url('https://habracho.github.io/SmartSparrow/moreinfo.png') no-repeat;
+	background: url('https://habracho.github.io/SmartSparrow/moreinfo.png') no-repeat fixed center;
 	width: 32px;
 	height: 32px;
 	/* display: block; */
