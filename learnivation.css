@@ -22,7 +22,7 @@
 	padding-left: 10px;
 	border-left: 1px solid #07224b;
 }
-.checkContainer .checkBtn, .checkContainer .closeFeedbackBtn, .checkContainer .showSolnBtn, .info-icon:not(.no-restyle) {
+.checkContainer .checkBtn, .checkContainer .closeFeedbackBtn, .checkContainer .showSolnBtn {
 	background-color: #07224b !important;
 
 }
